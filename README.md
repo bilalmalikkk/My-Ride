@@ -1,6 +1,6 @@
 # My Ride- Ride Hailing Application
 
-My Ride is a console-based ride hailing application that offers various functionalities to users, drivers, and administrators. The application allows users to book rides, drivers to manage their availability and location, and administrators to manage driver information. This readme provides an overview of the application, its features, usage instructions, contributors, license, and acknowledgments.
+My Ride is a console-based ride hailing application that offers various functionalities to users, drivers, and administrators. The application allows users to book rides, drivers to manage their availability and location, and administrators to manage driver information. This readme provides an overview of the application, its features, usage instructions, contributors, license, and acknowledgments
 
 ## Features
 
